@@ -1,0 +1,9 @@
+E:\Data\Code\CSharp\Apps\HelloWorld\HelloWorld\bin\Debug\netcoreapp1.1\HelloWorld.deps.json
+E:\Data\Code\CSharp\Apps\HelloWorld\HelloWorld\bin\Debug\netcoreapp1.1\HelloWorld.runtimeconfig.json
+E:\Data\Code\CSharp\Apps\HelloWorld\HelloWorld\bin\Debug\netcoreapp1.1\HelloWorld.runtimeconfig.dev.json
+E:\Data\Code\CSharp\Apps\HelloWorld\HelloWorld\bin\Debug\netcoreapp1.1\HelloWorld.dll
+E:\Data\Code\CSharp\Apps\HelloWorld\HelloWorld\bin\Debug\netcoreapp1.1\HelloWorld.pdb
+E:\Data\Code\CSharp\Apps\HelloWorld\HelloWorld\obj\Debug\netcoreapp1.1\HelloWorld.csprojResolveAssemblyReference.cache
+E:\Data\Code\CSharp\Apps\HelloWorld\HelloWorld\obj\Debug\netcoreapp1.1\HelloWorld.AssemblyInfo.cs
+E:\Data\Code\CSharp\Apps\HelloWorld\HelloWorld\obj\Debug\netcoreapp1.1\HelloWorld.dll
+E:\Data\Code\CSharp\Apps\HelloWorld\HelloWorld\obj\Debug\netcoreapp1.1\HelloWorld.pdb
